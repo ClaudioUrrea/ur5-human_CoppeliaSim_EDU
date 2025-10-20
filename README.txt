@@ -7,7 +7,7 @@
 
 Official implementation of **"Learning-Based Control Barrier Functions for Safety-Critical Multi-Objective Optimization in Human-Robot Collaborative Manufacturing Systems"** published in *Mathematics* (MDPI), 2026.
 
-![CoppeliaSim Simulation](coppeliasim/Escena_3.png)
+![CoppeliaSim Simulation](coppeliasim/Figure 1.png)
 *Figure 1: UR5 robot collaborating with human operator in CoppeliaSim simulation (Scenario 3: Simultaneous Operation)*
 
 ---
