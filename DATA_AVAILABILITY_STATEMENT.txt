@@ -1,0 +1,42 @@
+================================================================================
+ALTERNATIVE EXTENDED VERSION 
+================================================================================
+
+Data Availability Statement: All data and materials supporting the findings 
+of this study are openly available to ensure reproducibility:
+
+Source Code: Complete implementation including CBF neural networks, MPC solver, 
+GP predictor, and experimental scripts is available on GitHub at 
+https://github.com/ClaudioUrrea/ur5-human_CoppeliaSim_EDU (accessed on 
+5 October 2025) under MIT License.
+
+Dataset: The complete dataset (~505 MB) has been deposited on FigShare at 
+https://doi.org/10.6084/m9.figshare.30282127 (accessed on 19 October 2025) 
+under CC BY 4.0 License, containing:
+- 50,000 labeled training samples for CBF neural network (287 MB)
+- Pre-trained model weights with 98.3% validation accuracy (2.3 MB)
+- Gaussian Process human motion predictor (18 MB)
+- Complete experimental results from 720 validation runs (145 MB)
+- CMU MoCap-based human motion sequences (50 MB)
+- Statistical analysis with full test results (3.2 MB)
+
+Simulation Environment: CoppeliaSim scene file (.ttt format) and Python 
+interface scripts are included in the GitHub repository under coppeliasim/ 
+directory.
+
+The combination of open-source code and publicly available data enables 
+complete reproduction of all results presented in Tables 2-5 and Figures 1-8.
+
+================================================================================
+CITATIONS FOR DATA AVAILABILITY
+================================================================================
+
+In addition to citing the paper, readers using the dataset should cite:
+
+Urrea, C. (2025). LBCF-MPC: Training Data and Pre-trained Models for Safe 
+Human-Robot Collaboration (Version 1.0) [Data set]. figshare. 
+https://doi.org/10.6084/m9.figshare.30282127
+
+================================================================================
+END OF DATA AVAILABILITY STATEMENT
+================================================================================

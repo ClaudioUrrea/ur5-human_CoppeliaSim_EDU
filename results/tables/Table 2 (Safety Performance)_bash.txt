@@ -1,0 +1,2 @@
+python experiments/run_experiments.py --figure 1 --methods all --runs 30
+python experiments/analyze_results.py --table 2
